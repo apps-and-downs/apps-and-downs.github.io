@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.appsanddowns.easyreadpdf",
+        "sha256_cert_fingerprints": ["51:BD:83:E2:C1:F6:AD:41:40:6E:15:A5:6C:B1:FF:EB:5B:3C:1A:42:57:C8:25:DC:66:8B:72:04:8A:C2:AF:21"]
+      }
+    }]
